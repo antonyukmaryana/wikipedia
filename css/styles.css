@@ -2,18 +2,21 @@
   position: relative;
   min-height: 5px;
   padding-right: 15px;
-  padding-left: 15px;
+  padding-left: 5px;
+  margin-left: -12px;
+  float:right;
 }
 
 .col-xs-1 {
-  position: absolute;
-  float: left;
+  position: relative;
+  float:right;
 }
 
 .container {
   background-color: yellow;
   float: right;
   width: 90%;
+  position: relative;
 }
 
 .panel-default {
@@ -43,5 +46,5 @@ img{
   margin:10px;
 }
 .panel-info {
-  padding:10px;
+  /*padding:10px;*/
 }
