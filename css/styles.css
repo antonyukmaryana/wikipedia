@@ -48,3 +48,8 @@ img{
 .panel-info {
   /*padding:10px;*/
 }
+
+.lefttab {
+  margin-left: 150px;
+  margin-bottom: -60px;
+}
