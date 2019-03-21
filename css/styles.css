@@ -1,0 +1,47 @@
+.col-md-6 {
+  position: relative;
+  min-height: 5px;
+  padding-right: 15px;
+  padding-left: 15px;
+}
+
+.col-xs-1 {
+  position: absolute;
+  float: left;
+}
+
+.container {
+  background-color: yellow;
+  float: right;
+  width: 90%;
+}
+
+.panel-default {
+  height: 100%;
+  width: 10%;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: yellow;
+  overflow-x: hidden;
+  padding-top: 20px;
+}
+img{
+  width:100px;
+}
+
+#top {
+  float: right;
+}
+
+.panel-footer {
+  padding: 25px;
+}
+
+.panel-heading {
+  margin:10px;
+}
+.panel-info {
+  padding:10px;
+}
